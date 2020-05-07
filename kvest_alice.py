@@ -647,7 +647,7 @@ def play_game(res, req):
                     'hide': True
                 },
                 {
-                    'title': 'write',
+                    'title': 'writeln',
                     'hide': True
                 },
                 {
