@@ -1,1 +1,1 @@
-web: python Квест_Алиса.py
+web: python kvest_alice.py
